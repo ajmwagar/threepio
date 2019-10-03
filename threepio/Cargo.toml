@@ -13,3 +13,4 @@ license = "MIT"
 
 [dependencies]
 serde = "1"
+threepio-derive = { path = "../threepio-derive" }
