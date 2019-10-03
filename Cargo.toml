@@ -1,0 +1,13 @@
+[package]
+name = "threepio"
+description = "Dynamic network protocol definitions with Serde"
+version = "0.0.1"
+authors = ["Avery Wagar <avery@wagar.cc>"]
+edition = "2018"
+
+repository = "https://github.com/ajmwagar/threepio"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+serde = "1"
